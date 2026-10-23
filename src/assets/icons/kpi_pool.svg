@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+          <path d="M 42 24 L 86 24 L 74 42 L 54 42 Z" fill="#FACC15" stroke="#1E293B" stroke-width="4.5" stroke-linejoin="round"/>
+          <path d="M 50 40 C 18 50 14 106 40 112 L 88 112 C 114 106 110 50 78 40 Z" fill="#F59E0B" stroke="#1E293B" stroke-width="5" stroke-linejoin="round"/>
+          <rect x="46" y="36" width="36" height="8" rx="4" fill="#EF4444" stroke="#1E293B" stroke-width="3.5"/>
+          <circle cx="64" cy="78" r="23" fill="#FEF08A" stroke="#1E293B" stroke-width="4"/>
+          <!-- 矢量 ¥ 符号 -->
+          <path d="M 55 66 L 64 76 L 73 66 M 64 76 L 64 92 M 55 78 L 73 78 M 55 85 L 73 85" fill="none" stroke="#B45309" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>

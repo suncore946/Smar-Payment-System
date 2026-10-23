@@ -1,0 +1,12 @@
+{
+  "app_name": "特码智能收单风控系统Pro",
+  "version": "2.1.0",
+  "release_date": "2026-10-23",
+  "channel": "stable",
+  "download_url": "https://github.com/suncore946/Smar-Payment-System/releases/download/v2.1.0/特码智能收单风控系统Pro.exe",
+  "sha256": "81d4e9d6fc2c689c2fbe27969394e59056fb3a2db356c7578b6b9d725ed6f52b",
+  "file_size": 58321072,
+  "force_update": false,
+  "release_notes": "• 新增双模版本管理与自动更新引擎（支持 GitHub/Gitee Releases 免费托管与自定义服务器 version.json）\n• 支持 SHA256 完整性校验、后台静默检查更新、Windows 单文件 .exe 无缝自替换升级与词库热更新\n• 新增「使用说明与快捷键指南」工作台（含新手 5 步教程、14 类微信口语语法表与 4 组一键试玩案例）\n• 新增 20 项全局与工作台可自定义快捷键系统（支持按键冲突检测与一键恢复默认）\n• 遵循 Windows 标准规范将用户数据库默认存放至 %LOCALAPPDATA%\\LotteryRiskPro\\data，升级 .exe 永不丢数据",
+  "hot_keywords": {}
+}

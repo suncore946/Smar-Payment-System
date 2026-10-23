@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+          <path d="M 30 30 C 10 30 10 62 34 64" fill="none" stroke="#F59E0B" stroke-width="10" stroke-linecap="round"/>
+          <path d="M 30 30 C 10 30 10 62 34 64" fill="none" stroke="#1E293B" stroke-width="4" stroke-linecap="round"/>
+          <path d="M 98 30 C 118 30 118 62 94 64" fill="none" stroke="#F59E0B" stroke-width="10" stroke-linecap="round"/>
+          <path d="M 98 30 C 118 30 118 62 94 64" fill="none" stroke="#1E293B" stroke-width="4" stroke-linecap="round"/>
+          <path d="M 30 18 L 98 18 L 90 66 C 86 84 42 84 38 66 Z" fill="#FACC15" stroke="#1E293B" stroke-width="5" stroke-linejoin="round"/>
+          <rect x="54" y="78" width="20" height="18" fill="#F59E0B" stroke="#1E293B" stroke-width="4.5"/>
+          <rect x="34" y="96" width="60" height="16" rx="6" fill="#EF4444" stroke="#1E293B" stroke-width="5"/>
+          <!-- 杯身红色圆章与矢量五角星 -->
+          <circle cx="64" cy="45" r="18" fill="#EF4444" stroke="#1E293B" stroke-width="4"/>
+          <polygon points="64,31 68,40 78,40 70,46 73,55 64,50 55,55 58,46 50,40 60,40" fill="#FEF08A" stroke="#1E293B" stroke-width="2" stroke-linejoin="round"/>
+        </svg>

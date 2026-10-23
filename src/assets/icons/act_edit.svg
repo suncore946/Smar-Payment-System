@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+          <!-- 底部白色名片/便签纸 -->
+          <rect x="20" y="28" width="76" height="82" rx="12" fill="#FFFFFF" stroke="#1E293B" stroke-width="4.5"/>
+          <path d="M 28 44 L 64 44" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+          <path d="M 28 60 L 76 60" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+          <path d="M 28 76 L 56 76" stroke="#CBD5E1" stroke-width="4" stroke-linecap="round"/>
+          <!-- 斜放的卡通黄色铅笔 -->
+          <g transform="translate(68, 20) rotate(42)">
+            <!-- 笔身 -->
+            <rect x="-10" y="0" width="20" height="66" rx="4" fill="#FACC15" stroke="#1E293B" stroke-width="4"/>
+            <!-- 笔尾粉色橡皮擦 -->
+            <rect x="-10" y="-12" width="20" height="14" rx="3" fill="#F472B6" stroke="#1E293B" stroke-width="4"/>
+            <rect x="-10" y="-3" width="20" height="5" fill="#94A3B8" stroke="#1E293B" stroke-width="2"/>
+            <!-- 笔尖与笔芯 -->
+            <polygon points="-10,66 10,66 0,84" fill="#FEF08A" stroke="#1E293B" stroke-width="4" stroke-linejoin="round"/>
+            <polygon points="-4,77 4,77 0,84" fill="#1E293B"/>
+          </g>
+        </svg>

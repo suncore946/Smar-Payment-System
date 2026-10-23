@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# PyInstaller / Build outputs
+build/
+dist/*.exe
+*.exe
+*.manifest
+*.spec
+
+# User local data & Excel historical sheets (protect privacy)
+*.xlsm
+*.xlsx
+*.xls
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+data/
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE & OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini

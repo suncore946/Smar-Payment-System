@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+          <defs>
+            <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0%" stop-color="#FF512F"/>
+              <stop offset="55%" stop-color="#E11D48"/>
+              <stop offset="100%" stop-color="#881337"/>
+            </linearGradient>
+            <linearGradient id="goldGrad" x1="0" y1="0" x2="0" y2="1">
+              <stop offset="0%" stop-color="#FFF08A"/>
+              <stop offset="50%" stop-color="#FACC15"/>
+              <stop offset="100%" stop-color="#CA8A04"/>
+            </linearGradient>
+          </defs>
+          <!-- 圆角喜庆红金底座 -->
+          <rect x="5" y="5" width="118" height="118" rx="28" fill="url(#bgGrad)" stroke="#2B1810" stroke-width="5"/>
+          <rect x="11" y="11" width="106" height="106" rx="22" fill="none" stroke="url(#goldGrad)" stroke-width="3" opacity="0.9"/>
+          <path d="M 22 15 Q 64 25 106 15" fill="none" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" opacity="0.45"/>
+          <!-- 金马双耳与火红鬃毛 -->
+          <path d="M 28 40 L 18 14 L 44 26 Z" fill="#FBBF24" stroke="#2B1810" stroke-width="4" stroke-linejoin="round"/>
+          <path d="M 80 40 L 90 14 L 64 26 Z" fill="#FBBF24" stroke="#2B1810" stroke-width="4" stroke-linejoin="round"/>
+          <path d="M 42 22 Q 54 6 68 22" fill="#EF4444" stroke="#2B1810" stroke-width="4" stroke-linecap="round"/>
+          <!-- Q版小马头部与鼻子 -->
+          <rect x="20" y="26" width="66" height="56" rx="26" fill="#FDE047" stroke="#2B1810" stroke-width="4.5"/>
+          <!-- 额头白色流星斑 -->
+          <path d="M 53 30 L 58 40 L 53 48 L 48 40 Z" fill="#FFFFFF"/>
+          <rect x="27" y="52" width="52" height="30" rx="15" fill="#FEF9C3" stroke="#2B1810" stroke-width="3.5"/>
+          <!-- 大眼睛与腮红 -->
+          <circle cx="38" cy="43" r="5.5" fill="#2B1810"/>
+          <circle cx="36" cy="41" r="2" fill="#FFFFFF"/>
+          <circle cx="68" cy="43" r="5.5" fill="#2B1810"/>
+          <circle cx="66" cy="41" r="2" fill="#FFFFFF"/>
+          <ellipse cx="29" cy="50" rx="5" ry="3" fill="#FB7185"/>
+          <ellipse cx="77" cy="50" rx="5" ry="3" fill="#FB7185"/>
+          <!-- 鼻孔与大笑嘴型 -->
+          <circle cx="43" cy="62" r="2.8" fill="#2B1810"/>
+          <circle cx="63" cy="62" r="2.8" fill="#2B1810"/>
+          <path d="M 44 71 Q 53 79 62 71" fill="none" stroke="#2B1810" stroke-width="3.5" stroke-linecap="round"/>
+          <!-- 左下角：招财金元宝 -->
+          <path d="M 12 94 Q 36 84 60 94 L 51 114 Q 36 118 21 114 Z" fill="url(#goldGrad)" stroke="#2B1810" stroke-width="4" stroke-linejoin="round"/>
+          <ellipse cx="36" cy="92" rx="14" ry="6" fill="#FEF08A" stroke="#2B1810" stroke-width="3.5"/>
+          <!-- 右下角：醒目 49 号特码蓝波球（纯矢量绘制数字 49） -->
+          <circle cx="89" cy="87" r="30" fill="#2563EB" stroke="#2B1810" stroke-width="5"/>
+          <path d="M 71 71 A 22 22 0 0 1 103 69" fill="none" stroke="#93C5FD" stroke-width="4" stroke-linecap="round"/>
+          <circle cx="89" cy="87" r="20" fill="#FFFFFF" stroke="#2B1810" stroke-width="3.5"/>
+          <!-- 纯矢量数字 "4" 与 "9" -->
+          <path d="M 84 78 L 76 90 L 87 90 M 84 78 L 84 96" fill="none" stroke="#DC2626" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+          <circle cx="95" cy="83" r="5" fill="none" stroke="#DC2626" stroke-width="4"/>
+          <path d="M 100 83 L 100 92 Q 100 96 93 96" fill="none" stroke="#DC2626" stroke-width="4" stroke-linecap="round"/>
+        </svg>
